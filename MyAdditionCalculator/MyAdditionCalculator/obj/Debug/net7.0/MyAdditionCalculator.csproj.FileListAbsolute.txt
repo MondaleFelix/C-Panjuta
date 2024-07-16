@@ -1,0 +1,15 @@
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/obj/Debug/net7.0/MyAdditionCalculator.csproj.AssemblyReference.cache
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/obj/Debug/net7.0/MyAdditionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/obj/Debug/net7.0/MyAdditionCalculator.AssemblyInfoInputs.cache
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/obj/Debug/net7.0/MyAdditionCalculator.AssemblyInfo.cs
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/obj/Debug/net7.0/MyAdditionCalculator.csproj.CoreCompileInputs.cache
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/bin/Debug/net7.0/MyAdditionCalculator
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/bin/Debug/net7.0/MyAdditionCalculator.deps.json
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/bin/Debug/net7.0/MyAdditionCalculator.runtimeconfig.json
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/bin/Debug/net7.0/MyAdditionCalculator.dll
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/bin/Debug/net7.0/MyAdditionCalculator.pdb
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/obj/Debug/net7.0/MyAdditionCalculator.dll
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/obj/Debug/net7.0/refint/MyAdditionCalculator.dll
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/obj/Debug/net7.0/MyAdditionCalculator.pdb
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/obj/Debug/net7.0/MyAdditionCalculator.genruntimeconfig.cache
+/Users/mondalework/code/C#-Panjuta/MyAdditionCalculator/MyAdditionCalculator/obj/Debug/net7.0/ref/MyAdditionCalculator.dll

@@ -1,0 +1,15 @@
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/mondalework/code/C#-Panjuta/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
